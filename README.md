@@ -21,12 +21,18 @@ This Django-based chatbot project integrates a simple chat interface with a back
 ### Installation
 
 1. Clone the repository:
+   
   git clone https://github.com/Ayikoandrew/chatbot.git
-2. Navigate to the project directory:
+  
+3. Navigate to the project directory:
+   
    cd chatbot
-3. Install required Python packages:
+   
+5. Install required Python packages:
+   
    pip install -r requirements.txt
-4. Create a `.env` file in the project root directory and add your configuration:
+   
+7. Create a `.env` file in the project root directory and add your configuration:
    
    SECRET_KEY=your_secret_key_here
    
@@ -38,10 +44,10 @@ This Django-based chatbot project integrates a simple chat interface with a back
    
    DEBUG=True
 
-5. Apply migrations to create the database schema:
+8. Apply migrations to create the database schema:
    
    python manage.py migrate
-6. Start the Django development server:
+9. Start the Django development server:
    
 ### Usage
 
