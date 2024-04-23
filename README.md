@@ -22,7 +22,7 @@ This Django-based chatbot project integrates a simple chat interface with a back
 
 1. Clone the repository:
    
-  git clone https://github.com/Ayikoandrew/chatbot.git
+   git clone https://github.com/Ayikoandrew/chatbot.git
   
 3. Navigate to the project directory:
    
